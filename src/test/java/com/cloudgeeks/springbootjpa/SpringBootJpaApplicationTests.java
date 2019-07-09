@@ -11,6 +11,7 @@ public class SpringBootJpaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+// Write test case
 	}
 
 }
